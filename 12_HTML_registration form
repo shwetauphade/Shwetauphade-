@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>registration form</title>
+</head>
+<body>
+    <h2> registration form</h2>
+    <form action="#"method="post">
+      <label for="">name:</label>
+     <input type="text" placeholder="Enter name "><br><br>
+       <label for="">Email:</label>
+        <input type="email" placeholder="enter email"><br><br>
+         <label for="">Mobile:</label>
+        <input type="tel" placeholder="enter mobile number"><br><br>
+         <label for="">Password:</label>
+        <input type="password" placeholder="enter password"><br><br>
+        <label for="">confirm Password:</label>
+        <input type="password" placeholder="confirm password"><br><br>
+        <input type="submit"value="register">
+        <input type="reset"value="reset"    
+    </form>
+
+</body>
+</html>
