@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>home page</title>
+</head>
+<body>
+    <h1>welcome to html</h1>
+    <p>
+         my name is shrushti.i am from latur,maharashtra.
+         i am student i am interested in learning computer technologies 
+         and web development. my hobbies are reading, learning skill ,and using 
+         computers.my goal is to build a successful career in the IT field
+    </p>
+</body>
+</html>
